@@ -1,24 +1,45 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "Blog 1",
-            "body": "Some content goes here for blog 1",
-            "tags": [
-                "web",
-                "dev",
-                "coding"
-            ]
-        },
-        {
-            "id": 2,
-            "title": "Blog 2",
-            "body": "Some content goes here for blog 2",
-            "tags": [
-                "web",
-                "css",
-                "coding"
-            ]
-        }
-    ]
+  "posts": [
+    {
+      "id": "1",
+      "title": "Blog 1",
+      "body": "Some content goes here for blog 1",
+      "tags": [
+        "web",
+        "dev",
+        "coding"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Blog 2",
+      "body": "Some content goes here for blog 2",
+      "tags": [
+        "web",
+        "css",
+        "coding"
+      ]
+    },
+    {
+      "id": "9d56",
+      "title": "Third blogpost",
+      "body": "Content of the third blogpost",
+      "tags": [
+        "html",
+        "css",
+        "photoshop",
+        "laravel",
+        "php"
+      ]
+    },
+    {
+      "id": "91c5",
+      "title": "Fourth post",
+      "body": "Content of the fourth post",
+      "tags": [
+        "html",
+        "php"
+      ]
+    }
+  ]
 }
